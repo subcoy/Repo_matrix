@@ -1,0 +1,113 @@
+.title2 {
+        text-align:center;
+        border: 1px solid  blue;
+        background-color: bisque;
+        width: 900px;
+        color:black;
+        font-family:'Times New Roman';
+        font-size: 50px;
+        margin-left: 100px;
+
+        }
+
+.title3 {
+         text-align: center;
+         color:black;    
+         font-family:'Times New Roman';
+         font-size: 50px;
+    
+            }
+   
+
+    .one {
+            border: 5px solid  blue;
+            background-color: rgb(207, 205, 205);
+            width: 400px;
+            padding: 5px 5px 5px 5px;
+            font-family:'Times New Roman';
+            font-size: 30px;
+            margin: 50px 50px 50px 100px;
+
+        } 
+
+    .two {
+            
+            border: 5px solid  blue;
+            background-color: rgb(184, 172, 157);
+            width: 400px;
+            padding: 5px 5px 5px 5px;
+            font-family:'Times New Roman';
+            font-size: 30px;
+            margin: -400px 50px 50px 600px;
+           
+        } 
+
+    .three {
+            border: 1px solid  blue;
+            background-color: rgb(167, 219, 157);
+            width: 400px;
+            padding: 5px 5px 5px 5px;
+            font-family:'Times New Roman';
+            font-size: 30px;
+            margin: 80px 50px 50px 100px;
+           
+
+           } 
+
+    .four {
+            border: 1px solid  blue;
+            background-color: rgb(247, 207, 148);
+            width: 400px;
+            padding: 5px 5px 5px 5px;
+            font-family:'Times New Roman';
+            font-size: 30px;
+            margin: -395px 50px 50px 600px;
+           
+            } 
+
+.img1 {
+        padding: 5px;
+        border: 5px solid  gray;
+        zoom: 180%;
+        width: 310px;
+        margin-top: -450px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 620px;
+     
+       
+       }
+       
+.img2 {
+        padding: 5px;
+        border: 5px solid  rgba(109, 83, 52, 0.747);;
+        zoom: 180%;
+        width: 300px;
+        margin-top: -200px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 1000px;
+
+       }
+       
+.img3 {
+        padding: 5px;
+        border: 5px solid  green;
+        zoom: 180%;
+        width: 265px;
+        margin-top: 40px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 620px;
+       }
+       
+.img4 {
+        padding: 5px;
+        border: 5px solid  orange;
+        width: 300px;
+        zoom: 190%;
+        margin-top: -200px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 950px;
+       }         

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <!--This section configures the header-->
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UACompatible" content="IE=edge">
+        <meta name="viewport" content="width=device-witdth, initial-escle=1.0" />
+        <link rel="stylesheet" href="./css/contact.css">
+        <title>My personal Web site</title>
+    </head>
+
+    <body>
+        <header>
+            <span >Hans Ching</span>
+            <nav class="nav-bar">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="portafolio.html">Portafolio</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </header>
+
+        <main>
+            <form action="displayweb.html" method="get">
+                <h2>Contact</h2>
+
+                <div class="input-group">
+                    <label for="name">Name</label>
+                    <input type="text" mane="name" id="name" placeholder="Name">
+
+                    <label for="lname">Last name</label>
+                    <input type="text" mane="lname" id="lname" placeholder="Last Name">
+
+                    <label for="tlf">Telephone</label>
+                    <input type="text" mane="tlf" id="tlf" placeholder="Telephone">
+
+                    <label for="tlf">Email</label>
+                    <input type="email" mane="email" id="email" placeholder="Email">
+
+                    <label for="msg">Message</label>
+                    <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Message" ></textarea>
+                </div>
+
+                <section>
+                    <label for="submit"></label>
+                    <input  class="btn" type="submit" value="submit" name="submit">
+                    <input  class="btn" type="reset" value="Reset" name="reset"><br><br>
+                </section>
+
+            </form>
+        </main>
+
+    </body>
+
+</html>
