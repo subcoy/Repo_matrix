@@ -1,0 +1,46 @@
+* {
+  padding: 5px;
+  margin: 0;
+  box-sizing: border-box;
+}
+section{
+  background-color: yellow;
+}
+
+img{
+   
+  width: 128px;
+  height: 150px;
+  
+}
+div{
+  text-align: left;
+  border:2px solid rgb(71, 98, 221);
+
+  border-radius:5px;
+  margin:4px;
+  background-color: rgb(223, 235, 245);
+}
+
+.imgDetails{
+
+  margin-left: 15%;
+  margin-right: 15%;
+  box-sizing: border-box;
+  width: auto;
+  height: 500px;
+  
+}
+p,.nameDetails{
+
+  text-align: center;
+
+}
+
+.newplayer{
+margin: 2%;
+background-color: beige;
+}
+
+
+
